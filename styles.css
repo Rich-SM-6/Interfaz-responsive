@@ -1,0 +1,33 @@
+/* Estilos personalizados para la página */
+body {
+    font-family: Arial, sans-serif; /* Establece una fuente general */
+    background-color: #f0f8ff; /* Fondo azul claro */
+}
+
+h1 {
+    color: #004085; /* Color azul oscuro para el título */
+    text-align: center; /* Centrar el título */
+}
+
+footer {
+    background-color: #e9ecef; /* Color gris claro para el pie de página */
+    color: #495057; /* Texto en gris oscuro */
+    font-size: 14px; /* Tamaño de fuente para el pie de página */
+}
+
+/* Estilos para la barra de navegación */
+.navbar {
+    background-color: #007bff; /* Fondo azul para la barra */
+}
+
+.navbar-brand {
+    color: white !important; /* Texto blanco para el nombre de la web */
+}
+
+.nav-link {
+    color: white !important; /* Enlaces blancos */
+}
+
+.nav-link:hover {
+    color: #ffc107 !important; /* Color amarillo al pasar el ratón */
+}
